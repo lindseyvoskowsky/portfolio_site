@@ -3,7 +3,7 @@ portfolio_site
 
 Goal: 
 Create a personal portfolio site showcasing my graphic design work. 
-Three facets will be shown: book, print, and etc design. Carousels within each that illustrate projects. 
+Three facets will be shown: book, print, and "etc" design. Carousels within each that illustrate projects. 
 
 Requirements:
 Must be a one-page design with sticky nav menu. 
