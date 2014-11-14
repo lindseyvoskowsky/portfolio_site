@@ -1,0 +1,65 @@
+body {
+	font-family: 'Helvetica';
+	font-size: 1.5em;
+	line-height: 125%;
+	color: rgba(118,255,250,100);
+	padding: 2em;
+	text-align: center;
+}
+
+h1 {
+	font-family: 'Neuton';
+	color: #666;
+	font-size: 2em;
+}
+
+h2 {
+	font-family: 'Neuton';
+	color: #B29212;
+	font-size: 1.4em;
+}
+
+h3 {
+	font-family: 'Raleway';
+	font-weight: 500;
+	font-size: .7em;
+	line-height: 1.7em;
+	padding: 0em 35em 0em 10em;
+	color: #B29212;
+	text-align: left;
+}
+
+p {
+	font-family: 'Raleway';
+	font-weight: 500;
+	font-size: .7em;
+	line-height: 1.25em;
+	padding: 0em 10em;
+	color: #999;
+
+}
+
+#left {
+ float: left; 
+ text-align: left;
+ width: 100%;
+ 
+}
+
+#right {
+	float: right;
+ 	text-align: right;
+ 	padding: 37px 5px 0 0;
+ 
+}
+
+.menu {
+  font-family: Helvetica, sans-serif;
+  display: inline;
+}
+
+
+
+
+
+

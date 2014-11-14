@@ -21,3 +21,13 @@ Must be a one-page design with sticky nav menu.
 - Must have a client brief, requirements document, and specification document
 - Must have a github repo with a history that shows good git workflow
 - Must NOT "look like Bootstrap"
+
+Inspiration: 
+-http://www.slyillustrations.com/
+Like the big grid, somewhat square.
+
+-http://www.beaconia.co/#home
+Love the white space at the top, colorful photos below. 
+
+-http://www.franzsans.de/
+Woa, super cool how the fixed nav at the top points to each link as you scroll down the page. Love the simple colors. 
