@@ -1,8 +1,8 @@
 body {
 	font-family: 'Helvetica';
-	font-size: 1.5em;
+	font-size: 1em;
 	line-height: 125%;
-	color: rgba(118,255,250,100);
+	color: white;
 	padding: 2em;
 	text-align: center;
 }
@@ -10,53 +10,75 @@ body {
 h1 {
 	font-family: 'Neuton';
 	color: #666;
-	font-size: 2em;
+	font-size: 3em;
 }
 
 h2 {
 	font-family: 'Neuton';
 	color: #B29212;
-	font-size: 1.4em;
+	font-size: 2em;
 }
 
 h3 {
 	font-family: 'Raleway';
 	font-weight: 500;
-	font-size: .7em;
-	line-height: 1.7em;
-	padding: 0em 35em 0em 10em;
-	color: #B29212;
+	font-size: 1.2em;
+	line-height: 1.9em;
+	padding: 0em 0em 0em 10em;
+	color: #23BAAA;
 	text-align: left;
+	width: 15em;
 }
 
 p {
 	font-family: 'Raleway';
 	font-weight: 500;
-	font-size: .7em;
+	font-size: 1.2em;
 	line-height: 1.25em;
 	padding: 0em 10em;
 	color: #999;
 
 }
 
-#left {
- float: left; 
- text-align: left;
- width: 100%;
- 
-}
-
-#right {
-	float: right;
- 	text-align: right;
- 	padding: 37px 5px 0 0;
- 
-}
-
-.menu {
-  font-family: Helvetica, sans-serif;
+.swatch-main {
+  width: 80px;
+  height: 80px;
+  padding: 20px;
+  background-color: #666;
+  border: 1px solid black;
   display: inline;
 }
+
+.swatch-p {
+  width: 80px;
+  height: 80px;
+  padding: 20px;
+  background-color: #999;
+  border: 1px solid black;
+  display: inline;
+}
+
+.swatch-sub {
+  width: 80px;
+  height: 80px;
+  padding: 20px;
+  background-color: #B29212;
+  border: 1px solid black;
+  display: inline;
+}
+
+.swatch-accent {
+  width: 80px;
+  height: 80px;
+  padding: 20px;
+  background-color: #23BAAA;
+  border: 1px solid black;
+  display: inline;
+}
+
+
+
+
 
 
 
