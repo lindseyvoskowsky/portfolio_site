@@ -56,12 +56,6 @@ body {
 	font-family: 'franz_sans_bold';
 	font-size: .8em;
 	text-transform: uppercase;
-<<<<<<< HEAD
-=======
-
-
-
->>>>>>> master
 }
 
 
@@ -76,7 +70,6 @@ body {
     text-align: center;
     max-width: 1000px;
 
-<<<<<<< HEAD
 }
 
 .modal-dialog {
@@ -87,9 +80,7 @@ body {
 	font-family: 'franz_sans_bold';
 	font-size: 1em;
 	text-transform: uppercase;
-=======
 
->>>>>>> master
 }
 
 /* Fonts
@@ -109,17 +100,13 @@ h5 {
 p {
     font-family: 'franz_sans_bold';
     font-weight: 500;
-<<<<<<< HEAD
-    font-size: 1.1em;
-=======
     font-size: 1.2em;
->>>>>>> master
     line-height: 1.25em;
     color: #000;
 
 }
 
-<<<<<<< HEAD
+
 li {
     font-family: 'franz_sans_bold';
     font-weight: 500;
@@ -141,8 +128,8 @@ li.none {
 
 }
 
-=======
->>>>>>> master
+
+
 p.title {
     margin-top: .5em;
     font-family: 'franz_sans_bold';
