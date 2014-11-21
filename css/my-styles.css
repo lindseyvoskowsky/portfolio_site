@@ -30,10 +30,6 @@ body {
     background-size: 100%; */
 }
 
-.navbar {
-	background-color: #CCA939;
-	height: 4em;
-}
 
 .navbar-brand {
 	font-family: 'franz_sans_bold';
@@ -47,8 +43,13 @@ body {
 
 }
 
+.navbar {
+	background-color: #CCA939;
+	height: 4.5em;
+}
+
 .btn {
-	padding: 1.5em;
+	padding: 1.1em;
 	margin-top: 1em;
 	margin-bottom: 1em;
 	background-color: #CCA939;
@@ -56,6 +57,8 @@ body {
 	font-family: 'franz_sans_bold';
 	font-size: .8em;
 	text-transform: uppercase;
+	color: #666;
+	border-width: .1em;
 }
 
 
@@ -130,12 +133,13 @@ li.none {
 
 
 
+
 p.title {
     margin-top: .5em;
     font-family: 'franz_sans_bold';
     font-weight: 500;
     font-size: 5em;
-    line-height: 1.25em;
+    line-height: 1.2em;
     color: #CCA939;
     text-transform: uppercase;
 
@@ -156,7 +160,7 @@ p.pitch {
   vertical-align: center;
   padding-bottom: 35px;
   padding-top: 15px;
-  height: 35em;
+  height: 30em;
 
 }
 
@@ -181,20 +185,12 @@ p.pitch {
 
 h2 {
 	font-family: 'franz_sans_bold';
-<<<<<<< HEAD
     font-size: 1.5em;
     color: black;
     text-transform: uppercase;
     margin-top: 25px;
     margin-bottom: 15px;
     text-align: center;
-=======
-    font-size: 2em;
-    color: black;
-    text-transform: none;
-    margin-top: 25px;
-    margin-bottom: 15px;
->>>>>>> master
 
 }
 /* Background images are set within the HTML using inline CSS, not here */
@@ -229,12 +225,37 @@ p.footer {
 	z-index:12; 
 }
 
+a.myLinkToTop  {
+    margin-top: .5em;
+    font-family: 'franz_sans_bold';
+    font-weight: 500;
+    font-size: 1em;
+    line-height: 1.25em;
+    color: #666;
+    text-transform: uppercase;
+}
+
+a.myLinkToTop:hover {
+    color: #29E0FF;
+    text-decoration: none;
+    cursor: pointer;
+
+}
+
+.modal-content {
+	text-align: center;
+}
 
 
-@media only screen and (max-width: 600px) {
+
+@media only screen and (max-width: 650px) {
 
  	p.title {
  		font-size: 3em;
+ 	}
+
+ 	p.pitch {
+ 		font-size: 1.5em;
  	}
 
  	
