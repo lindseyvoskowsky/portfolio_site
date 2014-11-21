@@ -215,6 +215,20 @@ p.footer {
     text-align: center;
 }
 
+#toTop {
+	width:47px;
+	height:47px;
+	background:url(../img/back-top-btn.png) no-repeat;
+	text-align:center;
+	position:fixed;
+	bottom:25px;
+	right:20px;
+	cursor:pointer;
+	display:none;
+	text-indent:-9999px;
+	z-index:12; 
+}
+
 
 
 @media only screen and (max-width: 600px) {
